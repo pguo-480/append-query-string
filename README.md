@@ -10,3 +10,6 @@ For example:
 
 Currently it's a simple solution with up to 5 params fields.
 The params is stored in local storage.
+
+
+![DEMO](https://raw.githubusercontent.com/pguo-va/append-query-string/master/demo.gif)
