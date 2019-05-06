@@ -8,7 +8,7 @@ For example:
 `?devMode=true&version=123456&language=english`
 
 
-Currently it's a simple solution with up to 5 params fields.
+Currently it's a qiuck & dirty solution with up to 5 params fields.
 The params is stored in local storage.
 
 
